@@ -1,11 +1,11 @@
 # text-sentiment-analysis
-Text Sentiment Analysis project using Python, featuring two approaches: NLTK-based and manual methods. Analyzes tweet sentiments and detects emotions, with results visualized in bar charts. Capstone Final project for CS50x.
+Text Sentiment Analysis project using Python, featuring two approaches: NLTK-based and manual methods. Analyzes tweet sentiments and detects emotions, with results visualized in bar charts. 
 
 # Text Sentiment Analysis Project
 
 #### Description:
 
-This project is a text sentiment analysis tool designed as the final project for the CS50x course. It is implemented using two different approaches: one using the Natural Language Toolkit (NLTK) and the other employing a manual method without specialized libraries. The project demonstrates a comparative analysis of the two approaches and their effectiveness in sentiment analysis tasks.
+This project is a text sentiment analysis tool. It is implemented using two different approaches: one using the Natural Language Toolkit (NLTK) and the other employing a manual method without specialized libraries. The project demonstrates a comparative analysis of the two approaches and their effectiveness in sentiment analysis tasks.
 
 The primary goal of this project is to analyze the sentiment of textual data, specifically focusing on tweets. The sentiment analysis categorizes the data as positive, negative, or neutral. Additionally, the project includes an emotion detection feature that identifies specific emotions in the text based on a predefined emotion dictionary.
 

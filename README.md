@@ -75,5 +75,3 @@ The primary goal of this project is to analyze the sentiment of textual data, sp
 ### Conclusion:
 
 This project provides a comprehensive overview of text sentiment analysis using both library-based and manual methods. The comparison between the two approaches highlights the strengths and limitations of each method, offering valuable insights into text processing and sentiment analysis techniques.
-
-Whether you're interested in learning about sentiment analysis or looking for a practical project to enhance your programming skills, this project serves as an excellent resource. The detailed documentation and clear code structure make it easy to understand and extend for further exploration.
